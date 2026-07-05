@@ -1,21 +1,33 @@
 {
   "promoted_results": [
     {
-      "trigger_keywords": ["Youtube", "Grow", "Meida", "Promote", "Roblox"],
+      "trigger_keywords": [
+        "YouTube",
+        "Grow",
+        "Media",
+        "Promote",
+        "Roblox"
+      ],
       "title": "Help me grow on YouTube! - Max Crafter YT",
-      "content": "Hello! I'm max a small content creator I like to code and Rn I'm paying ymal.space to promote me and I made Ymal!",
+      "content": "Hello! I'm Max, a small content creator. I like to code, and right now I'm paying ymal.space to promote me. I also made YMAL!",
       "url": "https://youtube.com/@max-yt2025",
       "display_url": "youtube.com",
-      "bid_amount": 5.00,
+      "bid_amount": 5.0,
       "contact_email": "a.tormen2012@gmail.com"
     },
-        {
-      "trigger_keywords": ["Discord", "Grow", "Server Boosts", "Store", "Tools"],
+    {
+      "trigger_keywords": [
+        "Discord",
+        "Grow",
+        "Server Boosts",
+        "Store",
+        "Tools"
+      ],
       "title": "NEED DISCORD BOOSTS? CHECK OUT LITEBOOSTS!",
-      "content": "Liteboosts.com is a professional service that helps Discord server owners enhance their communities by purchasing cheap Discord boosts. With LiteBoosts, users can gain access to exclusive perks like custom banners, enhanced audio quality, and increased file upload limits without the hassle of long waiting times.",
+      "content": "LiteBoosts helps Discord server owners purchase server boosts.",
       "url": "https://liteboosts.com",
       "display_url": "liteboosts.com",
-      "bid_amount": 0.00,
+      "bid_amount": 0.0,
       "contact_email": "support@liteboosts.com"
     }
   ]
