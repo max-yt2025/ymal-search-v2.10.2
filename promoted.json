@@ -8,6 +8,15 @@
       "display_url": "youtube.com",
       "bid_amount": 5.00,
       "contact_email": "a.tormen2012@gmail.com"
+    },
+        {
+      "trigger_keywords": ["Discord", "Grow", "Server Boosts", "Store", "Tools"],
+      "title": "NEED DISCORD BOOSTS? CHECK OUT LITEBOOSTS!",
+      "content": "Liteboosts.com is a professional service that helps Discord server owners enhance their communities by purchasing cheap Discord boosts. With LiteBoosts, users can gain access to exclusive perks like custom banners, enhanced audio quality, and increased file upload limits without the hassle of long waiting times.",
+      "url": "https://liteboosts.com",
+      "display_url": "liteboosts.com",
+      "bid_amount": FREE,
+      "contact_email": "support@liteboosts.com"
     }
   ]
 }
